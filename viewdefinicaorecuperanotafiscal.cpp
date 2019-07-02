@@ -4,6 +4,11 @@
 #include <QMessageBox>
 #include <QDebug>
 
+
+//Autor: Jefferson Sampaio
+
+
+
 const QString link_fazenda = "http://www.nfe.fazenda.gov.br/portal/consultaRecaptcha.aspx?tipoConsulta=completa&tipoConteudo=XbSeqxE8pl8=";
 
 ViewDefinicaoRecuperaNotaFiscal::ViewDefinicaoRecuperaNotaFiscal(QWidget *parent) :
